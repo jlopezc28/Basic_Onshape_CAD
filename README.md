@@ -45,7 +45,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ## Mount
 
 ### Description
-
+I was strugging to finish it at first until i realized there was a video for the tutorial on how to do it.The thing i was really struggling to add construction lines
 ### Evidence
 
 ### Image
