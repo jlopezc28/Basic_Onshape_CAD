@@ -49,7 +49,7 @@ In this assignment you needed to make a mount for the caster
 ### Evidence
 [The Mount in Onshape]https://cvilleschools.onshape.com/documents/85b4317d4da0fd0fa324b129/w/e220e57b56170a53aa2f0e31/e/79a35908bc47778eac673a90
 ### Image
-<img src="https://github.com/jlopezc28/Basic_Onshape_CAD/blob/master/images/mount.png?raw=true"images/Base.jpg" alt="The Base" width="200">
+<img src="https://github.com/jlopezc28/Basic_Onshape_CAD/blob/master/images/mount.png?raw=true"images/Base.jpg" width="200">
 ### Reflection
 I was strugging to finish it at first until i realized there was a video for the tutorial on how to do it.The thing i was really struggling to add construction lines
 ---
@@ -58,40 +58,42 @@ I was strugging to finish it at first until i realized there was a video for the
 ## Fork
 
 ### Description
-
+You are making a piece that hold the wheel and axel inorder for the caster to work
 ### Evidence
-
+[The Fork in OnShape]https://cvilleschools.onshape.com/documents/85b4317d4da0fd0fa324b129/w/e220e57b56170a53aa2f0e31/e/675f762231edfebe53832c22
 ### Image
+<img src="https://github.com/jlopezc28/Basic_Onshape_CAD/blob/master/images/fork.png?raw=true" width="200">
 
 ### Reflection
-
+This one took me a while but wasn't too difficult to complete. I personaly really like this piece since it's the first one we used the fillet in
 ---
 
 
 ## Tire
 
 ### Description
-
+The tire is a circular part is held by the wheel inorder to make the movement of the caster smoother 
 ### Evidence
-
+https://cvilleschools.onshape.com/documents/85b4317d4da0fd0fa324b129/w/e220e57b56170a53aa2f0e31/e/d135273df4c28b5a158f01c0
 ### Image
-<img src="https://github.com/jlopezc28/Basic_Onshape_CAD/blob/master/images/tire.png?raw=true" width="100">
+<img src="https://github.com/jlopezc28/Basic_Onshape_CAD/blob/master/images/tire.png?raw=true" width="200">
 
 ### Reflection
-
+The shape on this one really through me off I really thought we were going to extrude a circle 
 ---
 
 
 ## Wheel
 
 ### Description
-
+This holds the tire, the axle, and is gives the whole caster the back bone
 ### Evidence
-
+https://cvilleschools.onshape.com/documents/85b4317d4da0fd0fa324b129/w/e220e57b56170a53aa2f0e31/e/6850a7beb8a016f513f19919
 ### Image
+<img src="https://github.com/jlopezc28/Basic_Onshape_CAD/blob/master/images/wheel.png?raw=true" width="200">
 
 ### Reflection
-
+This one is probably the one tat took me the longest since there were so many steps to take, but the bearing that is with the wheel was really simple
 ---
 
 
@@ -106,17 +108,9 @@ I was strugging to finish it at first until i realized there was a video for the
 ### Reflection
 
 ---
-# This is where all my progress is reported
 
 
-The mount is done, I was strugging to finish it at first until i realized there was a video for the tutorial on how to do it.
-heres the link to the mount https://cvilleschools.onshape.com/documents/85b4317d4da0fd0fa324b129/w/e220e57b56170a53aa2f0e31/e/79a35908bc47778eac673a90
 
-This one took me a while but wasn't too difficult to complete
-the link to the fork https://cvilleschools.onshape.com/documents/85b4317d4da0fd0fa324b129/w/e220e57b56170a53aa2f0e31/e/675f762231edfebe53832c22
-
-The tire was pretty easy, the shape threw me off at first but regardless the video helped explain
-That's the link to my tire https://cvilleschools.onshape.com/documents/85b4317d4da0fd0fa324b129/w/e220e57b56170a53aa2f0e31/e/d135273df4c28b5a158f01c0
 
 The wheel came with a lot of steps, some of them like making the holes made me struggle. adding the bearing was simple though
 the link for the wheel and bearing https://cvilleschools.onshape.com/documents/85b4317d4da0fd0fa324b129/w/e220e57b56170a53aa2f0e31/e/6850a7beb8a016f513f19919
