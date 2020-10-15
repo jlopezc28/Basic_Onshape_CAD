@@ -28,7 +28,7 @@ This is how you will write image code for INTERNALLY STORED images on your repo.
 ~~~
 <img src="https://github.com/OneCHSEngr/BasicCAD/blob/master/images/Base.jpg" width="100">
 
-### Reflection
+## Reflection
 
 This was my first Onshape part and [following along with Dr. Shields made it super easy.](https://www.youtube.com/watch?v=93BFUD-HAG8&feature=emb_title&scrlybrkr=5670f0b4)  I learned about 
 * sketching (shortcut **shift-s**)
