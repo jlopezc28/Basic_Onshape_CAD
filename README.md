@@ -11,6 +11,7 @@ We are creating a caster.
 * [Tire](#Tire)
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
+* [SubAssembly](#Subassembly)
 
 ## Base
 
@@ -111,3 +112,15 @@ This piece i what makes the caster spin since the axle is spinning inside the wh
 the axle itself was simple and so was the axle, but that whole on the axle. boyy did that take me a while. turns out i needed to hold the origin on my circle instead of the circle itself
 ---
 
+
+## Subassembly
+
+### Description
+Here you will be merging the wheel with the tire, the axle, and two bearings
+### Evidence
+[The subassembly in OnShape](https://cvilleschools.onshape.com/documents/85b4317d4da0fd0fa324b129/w/e220e57b56170a53aa2f0e31/e/878b104096b3009b51785d59)
+### Image
+<img src="https://github.com/jlopezc28/Basic_Onshape_CAD/blob/master/images/subassembly(wheel).png?raw=true" width="200">
+
+### Reflection
+I was already used to merging with other cad websites so this was pretty easy
