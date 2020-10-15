@@ -74,7 +74,7 @@ This one took me a while but wasn't too difficult to complete. I personaly reall
 ### Description
 The tire is a circular part is held by the wheel inorder to make the movement of the caster smoother 
 ### Evidence
-https://cvilleschools.onshape.com/documents/85b4317d4da0fd0fa324b129/w/e220e57b56170a53aa2f0e31/e/d135273df4c28b5a158f01c0
+[The Tire in OnShape]https://cvilleschools.onshape.com/documents/85b4317d4da0fd0fa324b129/w/e220e57b56170a53aa2f0e31/e/d135273df4c28b5a158f01c0
 ### Image
 <img src="https://github.com/jlopezc28/Basic_Onshape_CAD/blob/master/images/tire.png?raw=true" width="200">
 
@@ -88,7 +88,7 @@ The shape on this one really through me off I really thought we were going to ex
 ### Description
 This holds the tire, the axle, and is gives the whole caster the back bone
 ### Evidence
-https://cvilleschools.onshape.com/documents/85b4317d4da0fd0fa324b129/w/e220e57b56170a53aa2f0e31/e/6850a7beb8a016f513f19919
+[The wheel in OnShape]https://cvilleschools.onshape.com/documents/85b4317d4da0fd0fa324b129/w/e220e57b56170a53aa2f0e31/e/6850a7beb8a016f513f19919
 ### Image
 <img src="https://github.com/jlopezc28/Basic_Onshape_CAD/blob/master/images/wheel.png?raw=true" width="200">
 
@@ -100,20 +100,13 @@ This one is probably the one tat took me the longest since there were so many st
 ## AxleCollarBearings
 
 ### Description
-
+This piece i what makes the caster spin since the axle is spinning inside the wheel it what makes it move smoothly
 ### Evidence
-
+[The axel in OnShape]https://cvilleschools.onshape.com/documents/85b4317d4da0fd0fa324b129/w/e220e57b56170a53aa2f0e31/e/6c483a6c91f64788cc39a31f
 ### Image
+<img src="https://github.com/jlopezc28/Basic_Onshape_CAD/blob/master/images/axel&callar.png?raw=true" width="200">
 
 ### Reflection
-
+the axle itself was simple and so was the axle, but that whole on the axle. boyy did that take me a while. turns out i needed to hold the origin on my circle instead of the circle itself
 ---
 
-
-
-
-The wheel came with a lot of steps, some of them like making the holes made me struggle. adding the bearing was simple though
-the link for the wheel and bearing https://cvilleschools.onshape.com/documents/85b4317d4da0fd0fa324b129/w/e220e57b56170a53aa2f0e31/e/6850a7beb8a016f513f19919
-
-the axle it self was simple and so was the axle, but that whole on the axle. boyy did that take me a while. turns out i needed to hold the origin on my circle instead of the circle itself
-this is the link for the axle and caster https://cvilleschools.onshape.com/documents/85b4317d4da0fd0fa324b129/w/e220e57b56170a53aa2f0e31/e/6c483a6c91f64788cc39a31f
