@@ -51,6 +51,7 @@ In this assignment you needed to make a mount for the caster
 ### Image
 <img src="https://github.com/jlopezc28/Basic_Onshape_CAD/blob/master/images/mount1.png?raw=true" width="200">
 ### Reflection
+
 I was strugging to finish it at first until i realized there was a video for the tutorial on how to do it.The thing i was really struggling to add construction lines
 ---
 
