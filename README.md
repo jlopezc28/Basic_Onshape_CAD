@@ -47,7 +47,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ### Description
 In this assignment you needed to make a mount for the caster
 ### Evidence
-[The Mount in Onshape]https://cvilleschools.onshape.com/documents/85b4317d4da0fd0fa324b129/w/e220e57b56170a53aa2f0e31/e/79a35908bc47778eac673a90
+[The Mount in Onshape](https://cvilleschools.onshape.com/documents/85b4317d4da0fd0fa324b129/w/e220e57b56170a53aa2f0e31/e/79a35908bc47778eac673a90)
 ### Image
 <img src="https://github.com/jlopezc28/Basic_Onshape_CAD/blob/master/images/mount1.png?raw=true" width="200">
 ### Reflection
@@ -60,7 +60,7 @@ I was strugging to finish it at first until i realized there was a video for the
 ### Description
 You are making a piece that hold the wheel and axel inorder for the caster to work
 ### Evidence
-[The Fork in OnShape]https://cvilleschools.onshape.com/documents/85b4317d4da0fd0fa324b129/w/e220e57b56170a53aa2f0e31/e/675f762231edfebe53832c22
+[The Fork in OnShape](https://cvilleschools.onshape.com/documents/85b4317d4da0fd0fa324b129/w/e220e57b56170a53aa2f0e31/e/675f762231edfebe53832c22)
 ### Image
 <img src="https://github.com/jlopezc28/Basic_Onshape_CAD/blob/master/images/fork.png?raw=true" width="200">
 
@@ -74,7 +74,7 @@ This one took me a while but wasn't too difficult to complete. I personaly reall
 ### Description
 The tire is a circular part is held by the wheel inorder to make the movement of the caster smoother 
 ### Evidence
-[The Tire in OnShape]https://cvilleschools.onshape.com/documents/85b4317d4da0fd0fa324b129/w/e220e57b56170a53aa2f0e31/e/d135273df4c28b5a158f01c0
+[The Tire in OnShape](https://cvilleschools.onshape.com/documents/85b4317d4da0fd0fa324b129/w/e220e57b56170a53aa2f0e31/e/d135273df4c28b5a158f01c0)
 ### Image
 <img src="https://github.com/jlopezc28/Basic_Onshape_CAD/blob/master/images/tire.png?raw=true" width="200">
 
@@ -88,7 +88,7 @@ The shape on this one really through me off I really thought we were going to ex
 ### Description
 This holds the tire, the axle, and is gives the whole caster the back bone
 ### Evidence
-[The wheel in OnShape]https://cvilleschools.onshape.com/documents/85b4317d4da0fd0fa324b129/w/e220e57b56170a53aa2f0e31/e/6850a7beb8a016f513f19919
+[The wheel in OnShape](https://cvilleschools.onshape.com/documents/85b4317d4da0fd0fa324b129/w/e220e57b56170a53aa2f0e31/e/6850a7beb8a016f513f19919)
 ### Image
 <img src="https://github.com/jlopezc28/Basic_Onshape_CAD/blob/master/images/wheel.png?raw=true" width="200">
 
@@ -102,7 +102,7 @@ This one is probably the one tat took me the longest since there were so many st
 ### Description
 This piece i what makes the caster spin since the axle is spinning inside the wheel it what makes it move smoothly
 ### Evidence
-[The axel in OnShape]https://cvilleschools.onshape.com/documents/85b4317d4da0fd0fa324b129/w/e220e57b56170a53aa2f0e31/e/6c483a6c91f64788cc39a31f
+[The axel in OnShape](https://cvilleschools.onshape.com/documents/85b4317d4da0fd0fa324b129/w/e220e57b56170a53aa2f0e31/e/6c483a6c91f64788cc39a31f)
 ### Image
 <img src="https://github.com/jlopezc28/Basic_Onshape_CAD/blob/master/images/axel&callar.png?raw=true" width="200">
 
