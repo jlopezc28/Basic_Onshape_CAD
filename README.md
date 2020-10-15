@@ -31,6 +31,8 @@ This is how you will write image code for INTERNALLY STORED images on your repo.
 
 ## Reflection
 
+
+
 This was my first Onshape part and [following along with Dr. Shields made it super easy.](https://www.youtube.com/watch?v=93BFUD-HAG8&feature=emb_title&scrlybrkr=5670f0b4)  I learned about 
 * sketching (shortcut **shift-s**)
 * constructions lines (shortcut **Q**)
@@ -54,7 +56,9 @@ In this assignment you needed to make a mount for the caster
 ### Reflection
 
 I was strugging to finish it at first until i realized there was a video for the tutorial on how to do it.The thing i was really struggling to add construction lines
+
 ---
+
 
 
 ## Fork
@@ -68,7 +72,9 @@ You are making a piece that hold the wheel and axel inorder for the caster to wo
 
 ### Reflection
 This one took me a while but wasn't too difficult to complete. I personaly really like this piece since it's the first one we used the fillet in
+
 ---
+
 
 
 ## Tire
@@ -82,7 +88,9 @@ The tire is a circular part is held by the wheel inorder to make the movement of
 
 ### Reflection
 The shape on this one really through me off I really thought we were going to extrude a circle 
+
 ---
+
 
 
 ## Wheel
@@ -96,7 +104,9 @@ This holds the tire, the axle, and is gives the whole caster the back bone
 
 ### Reflection
 This one is probably the one tat took me the longest since there were so many steps to take, but the bearing that is with the wheel was really simple
+
 ---
+
 
 
 ## AxleCollarBearings
@@ -110,7 +120,9 @@ This piece i what makes the caster spin since the axle is spinning inside the wh
 
 ### Reflection
 the axle itself was simple and so was the axle, but that whole on the axle. boyy did that take me a while. turns out i needed to hold the origin on my circle instead of the circle itself
+
 ---
+
 
 
 ## Subassembly
