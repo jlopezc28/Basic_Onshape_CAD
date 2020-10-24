@@ -136,3 +136,18 @@ Here you will be merging the wheel with the tire, the axle, and two bearings
 
 ### Reflection
 I was already used to merging with other cad websites so this was pretty easy
+
+---
+
+
+
+## Final Assembly
+
+### Description
+IN this assignment we are adding all our previous parts and the subassembly to finish a working caster
+### Evidence
+[The Final Assembly in OnShape](https://cvilleschools.onshape.com/documents/85b4317d4da0fd0fa324b129/w/e220e57b56170a53aa2f0e31/e/18a0719a52c0bbe6da3eac4e)
+### Image
+
+### Reflection
+
