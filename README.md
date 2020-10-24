@@ -148,6 +148,7 @@ IN this assignment we are adding all our previous parts and the subassembly to f
 ### Evidence
 [The Final Assembly in OnShape](https://cvilleschools.onshape.com/documents/85b4317d4da0fd0fa324b129/w/e220e57b56170a53aa2f0e31/e/18a0719a52c0bbe6da3eac4e)
 ### Image
+<img src="https://github.com/jlopezc28/Basic_Onshape_CAD/blob/master/images/FinalAssembly.png?raw=true" width="200">
 
 ### Reflection
-
+This build was really stessing me out do to the fact that the fork was the one moving with the animation, but that was because instead of clicking the fork first you click the wheel first and since the fork is already mated it won't move
