@@ -12,7 +12,7 @@ We are creating a caster.
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
 * [SubAssembly](#Subassembly)
-* [CollaborationChallenge](#CollabortionChallenge)
+* [CollaborationChallenge](#CollaborationChallenge)
 ## Base
 
 ### Description
@@ -158,7 +158,6 @@ This build was really stessing me out do to the fact that the fork was the one m
 
 
 ## CollaborationChallenge
-
 ### Description
 In this assignment we are to make a vaccum pump with each teamate making their parts and assembling the final thing
 ### Evidence
