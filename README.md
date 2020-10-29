@@ -12,7 +12,7 @@ We are creating a caster.
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
 * [SubAssembly](#Subassembly)
-
+* [CollaborationChallenge](#CollabortionChallenge)
 ## Base
 
 ### Description
@@ -152,3 +152,19 @@ IN this assignment we are adding all our previous parts and the subassembly to f
 
 ### Reflection
 This build was really stessing me out do to the fact that the fork was the one moving with the animation, but that was because instead of clicking the fork first you click the wheel first and since the fork is already mated it won't move
+
+---
+
+
+
+## Collaboration Challenge
+
+### Description
+In this assignment we are to make a vaccum pump with each teamate making their parts and assembling the final thing
+### Evidence
+[The Assembly in OnShape](https://cvilleschools.onshape.com/documents/6d5b82e210c1006bfc033eaf/w/7b2a2d6c432a54f934f2d10f/e/da5bebc2444e6bc245c1e1ff)
+### Image
+<img src="https://github.com/jlopezc28/Basic_Onshape_CAD/blob/master/images/colabchallenge.png?raw=true" width="200">
+
+### Reflection
+The build wasn't too difficult since we all agreed on the measuremnets and helped eachother if we didn't know what to do. For the plunger to move was the most difficult thing in my case since I didn't know how to assign the limits. After a while of my teamate helping me get it to work in our favor we snapped everything perfectly.
