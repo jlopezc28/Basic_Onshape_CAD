@@ -48,14 +48,15 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ## Mount
 
 ### Description
-In this assignment you needed to make a mount for the caster
+In this assignment we are making a square that's 120 x 120 mm
 ### Evidence
 [The Mount in Onshape](https://cvilleschools.onshape.com/documents/85b4317d4da0fd0fa324b129/w/e220e57b56170a53aa2f0e31/e/79a35908bc47778eac673a90)
 ### Image
 <img src="https://github.com/jlopezc28/Basic_Onshape_CAD/blob/master/images/mount1.png?raw=true" width="200">
 ### Reflection
 
-I was strugging to finish it at first until i realized there was a video for the tutorial on how to do it.The thing i was really struggling to add construction lines
+I was strugging to finish it at first until i realized there was a video for the tutorial on how to do it https://cvilleschools.instructure.com/courses/31063/assignments/278967?module_item_id=874023
+The thing i was really struggling to add construction lines( on keyboard is Q)
 
 ---
 
@@ -64,7 +65,7 @@ I was strugging to finish it at first until i realized there was a video for the
 ## Fork
 
 ### Description
-You are making a piece that hold the wheel and axel inorder for the caster to work
+this piece is a 80 mm with two filleted rectangles 
 ### Evidence
 [The Fork in OnShape](https://cvilleschools.onshape.com/documents/85b4317d4da0fd0fa324b129/w/e220e57b56170a53aa2f0e31/e/675f762231edfebe53832c22)
 ### Image
@@ -80,14 +81,14 @@ This one took me a while but wasn't too difficult to complete. I personaly reall
 ## Tire
 
 ### Description
-The tire is a circular part is held by the wheel inorder to make the movement of the caster smoother 
+This piece is a 20 mm rectangle that is then revolved on the x axis of the sketch to make the circle
 ### Evidence
 [The Tire in OnShape](https://cvilleschools.onshape.com/documents/85b4317d4da0fd0fa324b129/w/e220e57b56170a53aa2f0e31/e/d135273df4c28b5a158f01c0)
 ### Image
 <img src="https://github.com/jlopezc28/Basic_Onshape_CAD/blob/master/images/tire.png?raw=true" width="200">
 
 ### Reflection
-The shape on this one really through me off I really thought we were going to extrude a circle 
+The shape on this one really through me off I really thought we were going to extrude a circle, But in reality
 
 ---
 
@@ -96,14 +97,14 @@ The shape on this one really through me off I really thought we were going to ex
 ## Wheel
 
 ### Description
-This holds the tire, the axle, and is gives the whole caster the back bone
+this piece is made up of 3 rectangles that are revolvrd just like with the tire 
 ### Evidence
 [The wheel in OnShape](https://cvilleschools.onshape.com/documents/85b4317d4da0fd0fa324b129/w/e220e57b56170a53aa2f0e31/e/6850a7beb8a016f513f19919)
 ### Image
 <img src="https://github.com/jlopezc28/Basic_Onshape_CAD/blob/master/images/wheel.png?raw=true" width="200">
 
 ### Reflection
-This one is probably the one tat took me the longest since there were so many steps to take, but the bearing that is with the wheel was really simple
+This one is probably the one that took me the longest since there were so many steps to take, but the bearing that is with the wheel was really . 
 
 ---
 
@@ -112,7 +113,7 @@ This one is probably the one tat took me the longest since there were so many st
 ## AxleCollarBearings
 
 ### Description
-This piece i what makes the caster spin since the axle is spinning inside the wheel it what makes it move smoothly
+This piece is a 2 circles one is 6 mm and theoter is 10mm, which is then extruded into a cylander. The collar then is a circle that wraps around the axle
 ### Evidence
 [The axel in OnShape](https://cvilleschools.onshape.com/documents/85b4317d4da0fd0fa324b129/w/e220e57b56170a53aa2f0e31/e/6c483a6c91f64788cc39a31f)
 ### Image
